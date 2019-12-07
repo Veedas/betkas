@@ -1,0 +1,11 @@
+0 2
+1 1
+2 1
+3 1
+4 8
+5 6
+6 4
+7 0
+8 2
+9 30
+Skaitmuo 9 buvo daugiausiai kartu tekste: 30kartus(u).
