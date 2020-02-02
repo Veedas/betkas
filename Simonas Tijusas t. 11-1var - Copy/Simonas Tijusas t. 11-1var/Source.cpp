@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <fstream>
 
 using namespace std;
@@ -47,8 +47,8 @@ void Max(char Sym[], int Skaiciai[], char& max, int &maxk)
 
 		if (Skaiciai[i] > maxk)
 		{
-			maxk = Skaiciai[i];
-			max = Sym[i];
+			maxk = Skaiciai[i];
+			max = Sym[i];
 		}
 	}
 	cout << max << endl;
@@ -71,7 +71,7 @@ int main()
 	int k = 0;
 	char S[10] = { '0','1','2','3','4','5','6','7','8','9' };
 	char Duom[500];
-	int Skaiciai[10];
+	int Skaiciai[10];
 	char Sym[10];
 	char max = '0';
 	int maxk = 0;

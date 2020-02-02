@@ -1,3 +1,16 @@
 ﻿  Source.cpp
-  LINK : C:\Users\PG5410DV\Desktop\Greta\Simonas Tijusas t. 11-1var - Copy\Debug\Simonas Tijusas t. 11-1var.exe not found or not built by the last incremental link; performing full link
-  Simonas Tijusas t. 11-1var.vcxproj -> C:\Users\PG5410DV\Desktop\Greta\Simonas Tijusas t. 11-1var - Copy\Debug\Simonas Tijusas t. 11-1var.exe
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(7): error C2065: 'ifstream': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(7): error C2146: syntax error: missing ';' before identifier 'fd'
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(7): error C3861: 'fd': identifier not found
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(8): error C2065: 'fd': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(10): error C2065: 'fd': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(53): error C2065: 'cout': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(53): error C2065: 'endl': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(54): error C2065: 'cout': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(59): error C2065: 'ofstream': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(59): error C2146: syntax error: missing ';' before identifier 'fr'
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(59): error C3861: 'fr': identifier not found
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(62): error C2065: 'fr': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(62): error C2065: 'endl': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(64): error C2065: 'fr': undeclared identifier
+c:\users\pg3762tp\desktop\git\simonas tijusas t. 11-1var - copy\simonas tijusas t. 11-1var\source.cpp(65): error C2065: 'fr': undeclared identifier
